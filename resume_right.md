@@ -1,6 +1,5 @@
 
 ### PROFESSIONAL EXPERIENCE
-
 #### SEP
 ##### Senior Software Engineer (2023 - Current) 
 
@@ -11,33 +10,30 @@ Projects:
 - Proprietary **IoT** **Android** Embedded Tablet Application & OS Support
 
 
-- **Xamarin Native** / **Xamarin Forms** / **Android** / **iOS** / **.NET Core Web API** IoT device management mobile app & cloud support
+- **Xamarin** / **Android** / **iOS** / **.NET Core Web API** IoT device management mobile app & cloud support
 
 
 ##### Software Engineer II (2020 - 2023) 
 
-Advanced software development, awareness and practice of agile practices, various tech lead spikes and responsibilities explored and practiced.
+Advanced software development, awareness and practice of agile practices, managed tech lead and spikes
 
 Projects: 
 
+- **Xamarin** / **Android** / **iOS** IoT device management mobile app
 
-- **Xamarin Native** / **Xamarin Forms** / **Android** / **iOS** IoT device management mobile app
-
-- **Xamarin Native** / **Xamarin Forms** / **Android** / **iOS** Diabetes care app
+- **Xamarin** / **Android** / **iOS** Diabetes care app
 
 - **Xamarin** ➜ **MAUI** migration documentation & preparation
 
 
 ##### Software Engineer (2018 - 2020)
 
-Designing and implementing software, executing test procedures, requiring current knowledge of commonly used concepts, practices, and procedures within the software field.
+Designing, implementing and testing various software 
 
 Projects: 
-* **C#/Unity Game Engine** & **Firebase** Integration Augmented Reality Prototype, demoing collaborative technology and virtual aircraft engine maintenance tools
+* **C#/Unity Game Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
 * Tractor Firmware using **QT creator** / **C++** to refine a tech demo into a fully-fledged production-ready feature
-* Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python/Django** **Azure**
+* Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python/Django** **ASP.NET**
 
 #### Genesys / Interactive Intelligence
 ##### Software Engineer in Test, Intern  (2016 - 2018) 
-
-Tasked with verifying system functionality, user experience, and test automation. Assigned to major refactoring work and test infrastructure development.
