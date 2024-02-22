@@ -6,12 +6,21 @@
   <title>Andrew J. Lonsway Resume</title>
 </head>
 <body>
-  <div id="content"></div>
+  <div>
+
+    <div class="left-content" id="left-content"></div>
+    <div class="right-content" id="right-content"></div>
+  </div>
+  
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    fetch("resume.md")
+    fetch("resume_left.md")
       .then((res) => res.text())
-      .then((text) =>  document.getElementById('content').innerHTML = marked.parse(text))
+      .then((text) =>  document.getElementById('left-content').innerHTML = marked.parse(text))
+    
+      fetch("resume_right.md")
+      .then((res) => res.text())
+      .then((text) =>  document.getElementById('right-content').innerHTML = marked.parse(text))
   </script>
 </body>
 </html>
