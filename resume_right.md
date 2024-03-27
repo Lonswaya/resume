@@ -3,7 +3,7 @@
 #### SEP
 ##### Senior Software Engineer (2023 - Current) 
 
-Tasked with designing software systems and applications, providing technical direction for software design and development activities. Defined configuration management plans and practices for software project teams.
+Designing software systems and applications, providing technical direction, defining configuration management plans and practices
 
 Projects: 
 
@@ -33,7 +33,7 @@ Designing, implementing and testing various software
 Projects: 
 * **C#/Unity Game Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
 * Tractor Firmware using **QT creator** / **C++** to refine a tech demo into a fully-fledged production-ready feature
-* Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python/Django** **ASP.NET**
+* Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python** **ASP.NET**
 
 #### Genesys / Interactive Intelligence
 ##### Software Engineer in Test, Intern  (2016 - 2018) 

@@ -230,14 +230,36 @@ li::marker {
 	color: #6BA292
 }
 
-.left-content {
-	width: 400px;
-	float: left;
-	position: absolute;
+ .left-content {
+	padding: 15px;
+	-webkit-flex: 3;
+	-ms-flex: 3;
+	flex: 3;
+	min-width: 0;
+} 
+
+ .right-content {
+	padding: 15px;
+	-webkit-flex: 3;
+	-ms-flex: 3;
+	flex: 4;
+	min-width: 0;
 }
 
-.right-content {
-	width: 500px;
-	float: right;
-}
+section {
+	display: -webkit-flex;
+	display: flex-shrink;
+	flex-wrap: wrap;
+	
+  }
 
+ @media (max-width: 1000px) {
+	section {
+	  -webkit-flex-direction: column;
+	  flex-direction: column;
+	  max-width: 500px;
+	}
+  } 
+
+
+  

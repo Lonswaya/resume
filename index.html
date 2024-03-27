@@ -3,13 +3,16 @@
 <link rel="stylesheet" href="style.css">
 <head>
   <meta charset="utf-8"/>
+  <meta  content="width=device-width">
   <title>Andrew J. Lonsway Resume</title>
 </head>
 <body>
-  <div>
+  <section class="section">
     <div class="left-content" id="left-content"></div>
     <div class="right-content" id="right-content"></div>
   </div>
+  
+  
   
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
@@ -20,6 +23,7 @@
       fetch("resume_right.md")
       .then((res) => res.text())
       .then((text) =>  document.getElementById('right-content').innerHTML = marked.parse(text))
+
   </script>
 </body>
 </html>
