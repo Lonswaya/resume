@@ -1,11 +1,13 @@
 
 ### PROFESSIONAL EXPERIENCE
-#### SEP
+#### SEP - Westfield, IN
 ##### Senior Software Engineer (2023 - Current) 
 
-Designing software systems and applications, providing technical direction, defining configuration management plans and practices
+Leading client communication with product discovery and user story mapping, designing software systems and applications, providing technical direction, defining configuration management plans and practices
 
 Projects: 
+
+- **React** / **GraphQL** / **TypeScript** / **Javascript** / **Shopify** Click 'n Collect Product Reservation and Pickup System
 
 - **Android** / **C++** / **Linux** / **Docker** IoT Embedded Tablet Application & OS Support
 
@@ -33,7 +35,4 @@ Designing, implementing and testing various software
 Projects: 
 * **C#/Unity Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
 * **QT creator** / **C++** Tractor Firmware, testing & feature patches for legacy automotive software 
-* Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python** **ASP.NET**
-
-#### Genesys / Interactive Intelligence
-##### Software Engineer in Test, Intern  (2016 - 2018) 
+* Varied Internal Web UI work, including but not limited to:  **C#**, **F#**, **Python** **ASP.NET**, **Node**, **Javascript**, **Ruby**
