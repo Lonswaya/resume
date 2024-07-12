@@ -1,5 +1,5 @@
 
-### PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE 
 #### SEP - Westfield, IN
 ##### Senior Software Engineer (2023 - Current) 
 

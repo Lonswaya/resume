@@ -1,6 +1,6 @@
 # ANDREW LONSWAY
 
-## Senior Software Engineer
+## Software Engineer 
 
 <img src="icons/email.svg" alt="email" width="20" height="20" style="vertical-align:middle" /> &nbsp; **andrewjlonsway@gmail.com**
 
