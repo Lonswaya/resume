@@ -1,6 +1,6 @@
 # ANDREW LONSWAY
 
-## Software Engineer 
+## Senior Software Engineer 
 
 <img src="icons/email.svg" alt="email" width="20" height="20" style="vertical-align:middle" /> &nbsp; **andrewjlonsway@gmail.com**
 
@@ -19,15 +19,8 @@ style="vertical-align:middle" /> &nbsp; **Purdue University - BS Computer Scienc
 </br>
 
 ### CAREER OBJECTIVE
-An experienced and well-rounded developer in web and mobile frameworks, versed with software design practices and agile development skills. 
+A well-rounded developer with embedded, web and mobile development experience. Experienced with implementing software design practices and applied agile development skills within a team. 
 
-Ready to take a technical responsibility and/or leadership within a team at the Central Colorado area, and continue to improve technical skills while providing value to a thriving professional environment. 
+Ready to take a technical responsibility and/or leadership in a team within the Central Colorado area, and continue to gain software development experience while providing value to a thriving professional environment. 
 
 </br>
-
-### SIDE PROJECTS / AWARDS
-##### Costume Design FX Circuitry
-**Raspberry Pi** / **Linux** / **Arduino** / **C++** 3D Printed costume parts with prototyped circuit boards for servos, audio, lighting
-
-##### National Boy Scouts of America Eagle Scout
-Awarded August, 2012

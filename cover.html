@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<link rel="stylesheet" href="style.css">
+<head>
+  <meta charset="utf-8"/>
+  <meta  content="width=device-width">
+  <title>Andrew J. Lonsway Resume</title>
+</head>
+<body>
+  <section class="section">
+    <div class="content" id="content"></div>
+  </div>
+  
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch("cover.md")
+      .then((res) => res.text())
+      .then((text) =>  document.getElementById('content').innerHTML = marked.parse(text))
+  </script>
+</body>
+</html>

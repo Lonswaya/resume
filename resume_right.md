@@ -7,10 +7,9 @@ Leading client communication with product discovery and user story mapping, desi
 
 Projects: 
 
-- **React** / **GraphQL** / **TypeScript** / **Javascript** / **Shopify** Click 'n Collect Product Reservation and Pickup System
+- **React** / **GraphQL** / **TypeScript** / **Javascript** / **Shopify** Click & Collect Product Reservation and Pickup System
 
-- **Android** / **C++** / **Linux** / **Docker** IoT Embedded Tablet Application & OS Support
-
+- **Android** / **C++** / **Linux** / **Docker** IoT Embedded Tablet Control Panel Application & OS Support
 
 - **Xamarin** / **Android** / **iOS** / **.NET Core Web API** / **C#** IoT device management mobile app & cloud support
 
@@ -33,6 +32,6 @@ Projects:
 Designing, implementing and testing various software 
 
 Projects: 
+* **QT creator** / **C++** / **Linux Automotive** Tractor Firmware development, new feature implementation, testing & patches for large-scale embedded automotive software 
 * **C#/Unity Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
-* **QT creator** / **C++** Tractor Firmware, testing & feature patches for legacy automotive software 
 * Varied Internal Web UI work, including but not limited to:  **C#**, **F#**, **Python** **ASP.NET**, **Node**, **Javascript**, **Ruby**
