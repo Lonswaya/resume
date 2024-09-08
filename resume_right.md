@@ -1,37 +1,41 @@
-
 ### PROFESSIONAL EXPERIENCE 
 #### SEP - Westfield, IN
-##### Senior Software Engineer (2023 - Current) 
 
-Leading client communication with product discovery and user story mapping, designing software systems and applications, providing technical direction, defining configuration management plans and practices
+Leading client communication with product discovery and user story mapping, designing software systems and applications, providing technical direction, defining configuration management plans and practices, providing test plans and automating System/Unit tests.
 
-Projects: 
-
-- **React** / **GraphQL** / **TypeScript** / **Javascript** / **Shopify** Click & Collect Product Reservation and Pickup System
-
-- **Android** / **C++** / **Linux** / **Docker** IoT Embedded Tablet Control Panel Application & OS Support
-
-- **Xamarin** / **Android** / **iOS** / **.NET Core Web API** / **C#** IoT device management mobile app & cloud support
+Project history: 
 
 
-##### Software Engineer II (2020 - 2023) 
+- **Android** / **C++** / **Java** / **Linux** / **Docker** IoT Embedded Tablet Application & OS BSP support
 
-Advanced software development, awareness and practice of agile practices, managed tech lead and spikes
+- **React** / **GraphQL** / **TypeScript** / **Javascript** / **Shopify** Shopify-integrated web development
 
-Projects: 
+- **Xamarin** / **MAUI** / **Android** / **iOS** / **.NET Core Web API** / **C#** IoT mobile app & cloud support
 
-- **Xamarin** / **Android** / **iOS** / **C#** IoT device management mobile app
+- **Xamarin** / **Android** / **iOS** Medical cross-platform mobile app development
 
-- **Xamarin** / **Android** / **iOS** Diabetes care app
+- **Xamarin** / **MAUI** migration documentation & preparation between systems
 
-- **Xamarin** ➜ **MAUI** migration documentation & preparation
+- **QT** / **C++** / **Linux Automotive** Automotive firmware development, new feature implementation, testing & patches for large-scale legacy software
+
+- **C#/Unity Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
+
+- Varied Internal Web UI work, including but not limited to:  **C#**, **F#**, **Python**, **Django**, **ASP.NET**, **Node**, **Javascript**, **Ruby**
 
 
-##### Software Engineer (2018 - 2020)
+###### Senior Software Engineer (2023 - Current) 
+###### Software Engineer II (2020 - 2023) 
+###### Software Engineer (2018 - 2020)
 
-Designing, implementing and testing various software 
+</br>
 
-Projects: 
-* **QT creator** / **C++** / **Linux Automotive** Tractor Firmware development, new feature implementation, testing & patches for large-scale embedded automotive software 
-* **C#/Unity Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
-* Varied Internal Web UI work, including but not limited to:  **C#**, **F#**, **Python** **ASP.NET**, **Node**, **Javascript**, **Ruby**
+#### Genesys / Interactive Intelligence - Indianapolis, IN
+
+Verifying system functionality using automated & manual testing, maintaining test frameworks and triaging test failures
+
+* **Java** / **Javascript** / **TestNG** / **AWS** / **Jasmine** 
+
+
+###### Automation Engineer, Intern (2016-2018)
+
+
