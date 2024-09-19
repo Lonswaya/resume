@@ -2,7 +2,7 @@
 
 > ## Senior Software Engineer
 
-> I am an engineer currently in the Indianapolis area, soon to move to central Colorado. Aurora Innovation is a company that has a lot of potential, both to create amazing technology key to our future and to challenge my technical skills to the next level. I would be pleased to find a place for myself with your company.
+> I am an engineer currently in the Indianapolis area, soon to move to central Colorado. I would be pleased to find a place for myself with your company.
 
 > As a Senior Software Engineer, my technical insight spans across a variety of different projects. My history includes (but is not limited to) C++/Linux Automotive Self-Driving Tractor Software, Android OS (C++) & native app (Java) development, and my latest project has been developing a website using React and Remix with Typescript for web development. 
 
