@@ -11,7 +11,7 @@ style="vertical-align:middle" /> &nbsp; **[(513)-827-7539](tel:5138277539)**
 style="vertical-align:middle" /> &nbsp; **alonsway**
 
 <img src="icons/compass.svg" alt="location" width="20" height="20"
-style="vertical-align:middle" /> &nbsp; **Noblesville, IN ➜ Central CO**
+style="vertical-align:middle" /> &nbsp; **Westminster CO**
 
 <img src="icons/college.svg" alt="education" width="20" height="20"
 style="vertical-align:middle" /> &nbsp; **Purdue University - BS Computer Science 2018**

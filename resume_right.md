@@ -3,8 +3,7 @@
 
 Leading client communication with product discovery and user story mapping, designing software systems and applications, providing technical direction, defining configuration management plans and practices, providing test plans and automating System/Unit tests.
 
-Project history: 
-
+Project history:  
 
 - **Android** / **C++** / **Java** / **Linux** / **Docker** IoT Embedded Tablet Application & OS BSP support
 
@@ -20,7 +19,7 @@ Project history:
 
 - **C#/Unity Engine** & **Firebase** Integration Augmented Reality Prototype, internal collaboration tool & client prototype
 
-- Varied Internal Web UI work, including but not limited to:  **C#**, **F#**, **Python**, **Django**, **ASP.NET**, **Node**, **Javascript**, **Ruby**
+- Varied Web UI work, including but not limited to:  **C#**, **F#**, **Python**, **Django**, **ASP.NET**, **Node**, **Javascript**, **Ruby**
 
 
 ###### Senior Software Engineer (2023 - Current) 
