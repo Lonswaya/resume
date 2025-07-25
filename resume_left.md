@@ -21,6 +21,6 @@ style="vertical-align:middle" /> &nbsp; **Purdue University - BS Computer Scienc
 ### CAREER OBJECTIVE
 A well-rounded developer with embedded, web and mobile development experience. Experienced with implementing software design practices and applied agile development skills within a team. 
 
-Ready to take a technical responsibility and/or leadership in a team within the Central Colorado area, and continue to gain software development experience while providing value to a thriving professional environment. 
+Investigating enriching employment opportunities for potential future work. 
 
 </br>
