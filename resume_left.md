@@ -19,8 +19,14 @@ style="vertical-align:middle" /> &nbsp; **Purdue University - BS Computer Scienc
 </br>
 
 ### CAREER OBJECTIVE
-A well-rounded developer with embedded, web and mobile development experience. Experienced with implementing software design practices and applied agile development skills within a team. 
+Senior Software Engineer in the Denver area. Experienced with implementing advanced software design practices and applied agile development skills. 
 
-Investigating enriching employment opportunities for potential future work. 
+Investigating enriching employment opportunities for potential future work within the Aerospace industry. 
 
 </br>
+
+### Certifications & Awards
+
+#### Scaled Agile Framework (SAFe) Advanced
+
+Certification of Lean-Agile and DevOps principles, allowing organizations to deliver higher-quality, software-centric solutions faster and more predictably. 

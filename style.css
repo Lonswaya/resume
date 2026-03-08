@@ -9,8 +9,8 @@
 /* https://coolors.co/2b2d42-2a4d14-586076-6ba292-fefdf9 */
 
 body {
-	margin: 20px auto;
-    width: 1000px;
+	margin: 50px auto;
+    width: 1200px;
 	background-color: #FEFDF9;
 	color: #2B2D42;
 	font: 15px "Myriad Pro", "Lucida Grande", Lucida, Verdana, sans-serif;
@@ -230,7 +230,7 @@ li::marker {
 	color: #6BA292
 }
 
- .left-content {
+.left-content {
 	padding: 15px;
 	-webkit-flex: 3;
 	-ms-flex: 3;
@@ -238,7 +238,7 @@ li::marker {
 	min-width: 0;
 } 
 
- .right-content {
+.right-content {
 	padding: 15px;
 	-webkit-flex: 3;
 	-ms-flex: 3;
@@ -253,7 +253,7 @@ section {
 	
   }
 
- @media (max-width: 1000px) {
+ @media (max-width: 1200px) {
 	section {
 	  -webkit-flex-direction: column;
 	  flex-direction: column;

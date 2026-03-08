@@ -1,13 +1,11 @@
 ### PROFESSIONAL EXPERIENCE 
-#### RTX - Aurora, CO
+#### Raytheon Space Intelligence, Surveillance and Reconnaissance - Aurora, CO
 
-Team lead & Scrum Master for various projects. Defined cadence, developed backlog, led product discovery and generation of user stories, presented demos, orchestrated team sprints & rituals, and spearheaded development as a Technical Lead.
+Senior Engineer tasked with modernization, system configuration, and new feature support. Responsible for architectural insight, feature elaboration and live maintenance for large-scale systems.
 
-- **React** / **Node** / **Python** / **Docker** Web-Based Internal Digital Resource Allocation & Automation tool 
+- **Java** / **Docker** / **Kubernetes** / **Python** / **Perl** Satellite Planning & Scheduling Mission Management System
 
-- **Angular** / **Typescript** / **Node** Satellite Tracker & Mission Management Simulator
-
-- **Python** / **SpringBoot** / **Java** / **Gradle** Satellite Data Backend 
+-  **Angular** / **Typescript** / **Node** / **Python** / **SpringBoot** / **Java** / **Gradle** Scrum Master/Team lead for Satellite Display and Simulation Tool 
 
 ###### Senior Software Engineer (P3) (Nov 2024 - Current)
 
@@ -33,14 +31,4 @@ Project history:
 ###### Software Engineer (2018 - 2020)
 
 </br>
-
-#### Genesys / Interactive Intelligence - Indianapolis, IN
-
-Verifying system functionality using automated & manual testing, maintaining test frameworks and triaging test failures
-
-* **Java** / **Javascript** / **TestNG** / **AWS** / **Jasmine** 
-
-
-###### Automation Engineer, Intern (2016-2018)
-
 
