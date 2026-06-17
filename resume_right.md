@@ -26,7 +26,7 @@ Project history:
 - Varied work, including but not limited to:  **React Native** **C#**, **C++**, **QT**,  **F#**, **Python**, **Django**, **ASP.NET**, **Node**, **Javascript**, **Ruby**, **C#/Unity Engine**, **Firebase**
 
 
-###### Senior Software Engineer (2023 - Current) 
+###### Senior Software Engineer (2023 - Nov 2024) 
 ###### Software Engineer II (2020 - 2023) 
 ###### Software Engineer (2018 - 2020)
 

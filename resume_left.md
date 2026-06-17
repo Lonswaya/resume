@@ -21,7 +21,7 @@ style="vertical-align:middle" /> &nbsp; **Purdue University - BS Computer Scienc
 ### CAREER OBJECTIVE
 Senior Software Engineer in the Denver area. Experienced with implementing advanced software design practices and applied agile development skills. 
 
-Investigating enriching employment opportunities for potential future work within the Aerospace industry. 
+Investigating enriching employment opportunities for potential future work within the local industry. 
 
 </br>
 
