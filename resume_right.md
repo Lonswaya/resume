@@ -1,9 +1,9 @@
 ### PROFESSIONAL EXPERIENCE 
-#### Raytheon Space Intelligence, Surveillance and Reconnaissance - Aurora, CO
+#### RTX Space Intelligence, Surveillance and Reconnaissance - Aurora, CO
 
 Senior Engineer tasked with modernization, system configuration, and new feature support. Responsible for architectural insight, feature elaboration and live maintenance for large-scale systems.
 
-- **Java** / **Docker** / **Kubernetes** / **Python** / **Perl** Satellite Planning & Scheduling Mission Management System
+- **Java** / **Docker** / **Kubernetes** / **Python** / **Perl** / **Linux** Satellite Planning & Scheduling Mission Management Planning System
 
 -  **Angular** / **Typescript** / **Node** / **Python** / **SpringBoot** / **Java** / **Gradle** Scrum Master/Team lead for Satellite Display and Simulation Tool 
 
